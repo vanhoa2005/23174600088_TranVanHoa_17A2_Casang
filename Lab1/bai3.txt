@@ -1,0 +1,3 @@
+Số tiền có sau 5 năm là :53000.00
+Số tiền có sau 5 năm là :106000.00
+Tỷ lệ tăng trưởng của số tiền bạn sẽ có sau 10 năm so với số tiền bạn sẽ có sau 5 năm là :-5.30
