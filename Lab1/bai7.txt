@@ -1,0 +1,9 @@
+Nhập a1: -2
+Nhập b1: 1
+Nhập c1: 5
+Nhập a2: 1
+Nhập b2: 3
+Nhập c2: 1
+Nghiệm của hệ phương trình là:
+x = -2.00
+y = 1.00

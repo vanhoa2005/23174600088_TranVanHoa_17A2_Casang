@@ -1,0 +1,4 @@
+Nhập số lượng viên bi bạn muốn rút ra: 10
+1. Xác suất để rút ra tất cả là bi đỏ: 0.0825
+2. Xác suất để rút ra ít nhất một viên là bi xanh: 0.9175
+3. Xác suất để rút ra đúng hai viên là bi vàng: 0.7429
