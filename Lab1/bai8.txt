@@ -1,3 +1,0 @@
-Nhập giá trị của x: 2
-Nhập giá trị của z: 5
-f(x) = -2.03

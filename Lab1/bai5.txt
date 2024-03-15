@@ -1,2 +1,0 @@
-Hãy nhập thời gian sử dụng điện : 5
-Số tiền điện phải trả cho việc sử dụng máy lọc không khí là :  8250.0
