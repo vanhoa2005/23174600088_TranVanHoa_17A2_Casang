@@ -1,0 +1,5 @@
+Hãy nhập độ dài cạnh đáy : 10
+Hãy nhập chiều cao : 20
+Diện tích xung quanh của hình chóp tứ giác đều là : 
+Diện tích toàn phần của hình chóp tứ giác đều là : 
+Thể tích của hình chóp tứ giác đều là :133.33

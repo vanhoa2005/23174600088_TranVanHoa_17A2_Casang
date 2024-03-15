@@ -1,0 +1,1 @@
+a,b,c,d=map(float,input("Nhập tọa độ 4 đỉnh M,N,P,Q : ").split())
