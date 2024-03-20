@@ -1,0 +1,32 @@
+- Bài 1: đúng
+Điểm bài tập: 1.0 
+
+- Bài 2: đúng. Nhưng em cần lưu ý, các giá trị được nhập vào từ bàn phím đã có kiểu chuỗi, nên em không cần ép kiểu str() nữa
+Điểm bài tập: 1.0 
+
+- Bài 3: đúng
+Điểm bài tập: 1.0 
+
+- Bài 4: đúng
+Điểm bài tập: 1.0 
+
+- Bài 5: đúng
+Điểm bài tập: 1.0 
+
+- Bài 6: sử dụng function, kiến thức vượt ngoài kiến thức lab 1
+Điểm bài tập: 0.5
+
+- Bài 7: đúng
+Điểm bài tập: 1.0 
+
+- Bài 8: đúng
+Điểm bài tập: 1.0 
+
+- Bài 9: sử dụng function, kiến thức vượt ngoài kiến thức lab 1
+Điểm bài tập: 1.0
+
+- Bài 10: sử dụng function, kiến thức vượt ngoài kiến thức lab 1
+Điểm bài tập: 0.5
+
+Tổng điểm bài tập lab 1: 9.0
+
