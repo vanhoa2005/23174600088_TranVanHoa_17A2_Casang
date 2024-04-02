@@ -1,0 +1,32 @@
+- Bài 1: thiếu trường hợp phương trình có vô số nghiệm
+Điểm bài tập: 0.75
+
+- Bài 2: nếu số có 3 chữ số thì số đó không có chữ số hàng nghìn chứ không phải chữ số hàng nghìn bằng 0
+Vậy trường hợp số có 5 chữ số trở lên thì sao?
+Điểm bài tập: 0.5 
+
+- Bài 3: trống
+Điểm bài tập: 0
+
+- Bài 4: đúng
+Điểm bài tập: 1.0 
+
+- Bài 5: đúng
+Điểm bài tập: 1.0 
+
+- Bài 6: đúng
+Điểm bài tập: 1.0 
+
+- Bài 7: đúng
+Điểm bài tập: 1.0
+
+- Bài 8: đúng
+Điểm bài tập: 1.0 
+
+- Bài 9: trống
+Điểm bài tập: 0
+
+- Bài 10: đúng
+Điểm bài tập: 1.0
+
+Tổng điểm bài tập lab 2: 7.25
