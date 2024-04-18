@@ -1,0 +1,28 @@
+- Bài 1: 
+a) b) sử dụng kiến thức ngoài kiến thức các lab đã học
+c) đúng
+Điểm bài tập: 1.5
+
+- Bài 2: 
+a) đúng
+b) đúng
+c) dãy fibonaci bắt đầu từ 0
+Điểm bài tập: 2.75
+
+- Bài 3: đúng
+Điểm bài tập: 1.0
+
+- Bài 4:
+a) đúng
+b) đúng
+c) đúng
+d) đúng
+Điểm bài tập: 2.0
+
+- Bài 5: đúng
+Điểm bài tập: 1.0
+
+- Bài 6: đúng
+Điểm bài tập: 1.0
+
+Tổng điểm bài tập lab 4: 9.25
