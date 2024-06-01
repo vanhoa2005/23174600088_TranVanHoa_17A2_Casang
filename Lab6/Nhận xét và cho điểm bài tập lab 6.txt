@@ -1,0 +1,22 @@
+Bài 1: đúng
+Điểm: 1.0
+
+Bài 2: đúng
+Điểm: 2.0
+
+Bài 3: sử dụng kiến thức ngoài kiến thức đã học
+Điểm: 0.75
+
+Bài 4: thiếu ý b 
+Điểm: 1.0
+
+Bài 5: đúng
+Điểm: 2.0 
+
+Bài 6.1: thiếu tính tích hai ma trận
+Điểm: 1.5
+
+Bài 6.2: thiếu
+Điểm: 0
+
+Tổng điểm bài tập lab 6: 8.25/12 -> 7.0

@@ -1,0 +1,19 @@
+Bài 1: đúng
+Điểm: 1.0
+
+Bài 2: đúng
+Điểm: 2.0
+
+Bài 3: đúng
+Điểm: 2.0
+
+Bài 4: đúng
+Điểm: 1.0
+
+Bài 5: đúng
+Điểm: 2.0 
+
+Bài 6: đề bài yêu cầu dùng map, filter thì em không cần xây dựng hàm nữa
+Điểm: 4.0
+
+Tổng điểm bài tập lab 8: 12/13 -> 9.25
