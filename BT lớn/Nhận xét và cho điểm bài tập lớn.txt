@@ -1,0 +1,13 @@
+Nhận xét và cho điểm bài tập lớn:
+Code: 
++ Hàm mô_phỏng_lượt_chơi trả về nhiều biến không cần thiết, và điều này có thể gây nhầm lẫn.
++ Hàm tính_toán_xác_suất_thắng: Nên tính toán xác suất thắng một cách rõ ràng và dễ hiểu hơn.
+Điểm: 3.0
+
+File: Không xuất file csv
+Điểm: 0
+
+Không có ảnh chạy code
+Điểm: 0
+
+Điểm bài tập lớn: 3.0
